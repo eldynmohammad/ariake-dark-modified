@@ -1,0 +1,21 @@
+{
+    "name": "ariake-dark--modified-",
+    "displayName": "Ariake Dark (Modified)",
+    "description": "A modified version of Ariake Dark theme for Visual Studio Code.",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.64.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Ariake Dark (Modified)",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Ariake Dark (Modified)-color-theme.json"
+            }
+        ]
+    }
+}

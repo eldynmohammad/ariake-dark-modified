@@ -1,0 +1,53 @@
+{
+  "name": "Ariake Dark (Modified)",
+  "type": "dark",
+  "tokenColors": "./Ariake Dark (Modified)-color-theme.tmTheme",
+  "colors": {
+    "activityBar.background": "#17181f",
+    "dropdown.background": "#17181f",
+    "dropdown.border": "#5e81ac",
+    "diffEditor.insertedTextBackground": "#43d08a10",
+    "diffEditor.removedTextBackground": "#e052521a",
+    "editor.background": "#1f212a", // 2b303b
+    "editor.foreground": "#c0c5ce",
+    "editor.lineHighlightBackground": "#17181f", //303341
+    "editor.selectionBackground": "#4f5b66",
+    "editorCursor.foreground": "#c0c5ce",
+    "editorGroupHeader.tabsBackground": "#303341", //17181f
+    "editorGutter.background": "#1f212a",
+    "editorGroup.dropBackground": "#17181f",
+    "editorHoverWidget.background": "#232830",
+    "editorHoverWidget.border": "#303341",
+    "editorIndentGuide.background": "#3b5364",
+    "editorWhitespace.foreground": "#65737e",
+    "editorWidget.background": "#232830",
+    "input.background": "#17181f",
+    "inputOption.activeBorder": "#5e81ac",
+    "list.activeSelectionBackground": "#303341",
+    "list.focusBackground": "#303341",
+    "list.hoverBackground": "#303341",
+    "list.inactiveSelectionBackground": "#303341",
+    "scrollbar.shadow": "#00000000",
+    "settings.checkboxBorder": "#5e81ac",
+    "settings.dropdownBorder": "#5e81ac",
+    "settings.dropdownListBorder": "#5e81ac",
+    "settings.textInputBorder": "#5e81ac",
+    "statusBar.background": "#303341", //17181f
+    "statusBar.debuggingBackground": "#5e81ac",
+    "statusBar.debuggingForeground": "#ffffff",
+    "statusBar.foreground": "#d8dee9", //4f5b66
+    "tab.activeBackground": "#1f212a",
+    "tab.activeBorder": "#17181f00", //88c0d000
+    "tab.border": "#303341",
+    "tab.hoverBorder": "#1f212a",
+    "tab.inactiveForeground": "#65737f",
+    "tab.inactiveBackground": "#303341", //17181f
+    "tab.hoverBackground": "#1f212a",
+    "tab.unfocusedHoverBackground": "#303341",
+    "titleBar.activeBackground": "#17181f",
+    "titleBar.inactiveBackground": "#17181f",
+    "sideBar.background": "#1f212a", // 17181f
+    "sideBarSectionHeader.background": "#17181f",
+    "widget.shadow": "#00000000",
+  },
+}
